@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Notes/Keepalived.md",
+                "file": "DevOps Notes/Multipass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keepalived"
+              "title": "Multipass"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps Notes/Keepalived.md",
+                "file": "DevOps Notes/Multipass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Keepalived"
+              "title": "Backlinks for Multipass"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps Notes/Keepalived.md",
+                "file": "DevOps Notes/Multipass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Keepalived"
+              "title": "Outgoing links from Multipass"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps Notes/Keepalived.md",
+                "file": "DevOps Notes/Multipass.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Keepalived"
+              "title": "Outline of Multipass"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "2ce879e840431605",
   "lastOpenFiles": [
-    "DevOps Notes/Nexus_Setup_Guide.md",
     "DevOps Notes/Keepalived.md",
+    "DevOps Notes/Multipass.md",
+    "Untitled.base",
+    "DevOps Notes/Nexus_Setup_Guide.md",
     "Untitled.canvas",
     "2026-02-10.md",
     "Readme.md"
