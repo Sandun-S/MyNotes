@@ -77,11 +77,7 @@ docker volume create nexus-data
 Expose only the management port (8081):
 
 ```bash
-docker run -d \
-  -p 8081:8081 \
-  --name nexus \
-  -v nexus-data:/nexus-data \
-  sonatype/nexus3
+docker run -d -p 8081:8081 --name nexus -v nexus-data:/nexus-data sonatype/nexus3
 ```
 
 Wait **2–3 minutes** for startup.
