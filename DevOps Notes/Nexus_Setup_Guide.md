@@ -252,13 +252,3 @@ docker pull localhost:8082/my-alpine
   docker logout
   docker login localhost:8082
   ```
-
----
-
-```
-
-If you want, I can also:
-- Split this into **README.md + ops checklist**
-- Convert it into an **Ansible role**
-- Add **TLS (proper HTTPS registry)** instead of insecure mode
-```
