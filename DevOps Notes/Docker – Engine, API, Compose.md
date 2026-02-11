@@ -265,22 +265,3 @@ Disk cleanup on edge device (Pi / VM):
 docker image prune
 docker system prune
 ```
-
----
-
-This now cleanly separates:
-
-- Engine installation
-    
-- Remote API configuration
-    
-- Compose usage (non-Swarm)
-    
-- Container-level debugging
-    
-- Storage + image maintenance
-    
-
-No duplicated Swarm-only commands included.
-
-If you want, I can next produce a **single consolidated “Docker + Swarm + API master reference”** structured for production ops.
