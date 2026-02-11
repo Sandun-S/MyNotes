@@ -393,27 +393,3 @@ docker rm -f keycloak
 # Remove volume (DESTROYS DATA)
 docker volume rm keycloak_data
 ```
-
----
-
-# 13. Summary Architecture (Dev Mode)
-
-Windows Host  
-→ Hyper-V  
-→ Multipass Ubuntu VM  
-→ Docker  
-→ Keycloak Container  
-→ H2 DB (Embedded)
-
----
-
-# 14. Final Recommendations
-
-For serious environments:
-
-- Do NOT use `start-dev`
-- Do NOT use embedded H2 DB
-- Always use PostgreSQL
-- Always use HTTPS
-- Always set hostname explicitly
-- Backup volume regularly
