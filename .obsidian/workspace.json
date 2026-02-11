@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Notes/Keycloak.md",
+                "file": "DevOps Notes/Docker – Engine, API, Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keycloak"
+              "title": "Docker – Engine, API, Compose"
             }
           }
         ],
@@ -212,9 +212,12 @@
   },
   "active": "134ee1ac78930fc2",
   "lastOpenFiles": [
+    "DevOps Notes/Docker Swarm.md",
+    "DevOps Notes/Docker – Engine, API, Compose.md",
+    "DevOps Notes/SSH Sessions.md",
+    "DevOps Notes/Keycloak.md",
     "DevOps Notes/Multipass.md",
     "DevOps Notes/Nexus_Setup_Guide.md",
-    "DevOps Notes/Keycloak.md",
     "DevOps Notes/Keepalived.md",
     "Untitled.base",
     "Untitled.canvas",
