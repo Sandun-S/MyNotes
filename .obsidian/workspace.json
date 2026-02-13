@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a1d7b8f8aaba7a99",
+        "id": "20c3b3f91d674ab6",
         "type": "tabs",
         "children": [
           {
-            "id": "2ce879e840431605",
+            "id": "17452576147c33e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Notes/Nexus_Setup_Guide.md",
+                "file": "DevOps Notes/Linux bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nexus_Setup_Guide"
-            }
-          },
-          {
-            "id": "134ee1ac78930fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps Notes/Keycloak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keycloak"
+              "title": "Linux bash"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "keycloak su",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,18 +195,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "134ee1ac78930fc2",
+  "active": "17452576147c33e7",
   "lastOpenFiles": [
+    "Readme.md",
+    "DevOps Notes/Github.md",
     "DevOps Notes/Docker – Engine, API, Compose.md",
     "DevOps Notes/Docker Swarm.md",
-    "DevOps Notes/SSH Sessions.md",
+    "DevOps Notes/Keepalived.md",
     "DevOps Notes/Keycloak.md",
     "DevOps Notes/Multipass.md",
     "DevOps Notes/Nexus_Setup_Guide.md",
-    "DevOps Notes/Keepalived.md",
-    "Untitled.base",
+    "DevOps Notes/SSH Sessions.md",
+    "DevOps Notes/Linux bash.md",
+    "2026-02-13.md",
     "Untitled.canvas",
-    "2026-02-10.md",
-    "Readme.md"
+    "Untitled.base",
+    "2026-02-10.md"
   ]
 }
