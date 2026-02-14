@@ -6,6 +6,8 @@ git remote -v
 git config --list
 git config user.email
 git config --global user.email
+
+git remote show origin
 ```
 
 ## Global email (applies to all repos)
@@ -22,6 +24,8 @@ git config user.email "sanduns@mitesp.com"
 git remote add origin git@github.com:your-username/my-new-app.git
 git remote add personal git@github.com:your-username/your-repo-name.git
 git remote add work git@github.com:your-username/your-repo-name.git
+
+git remote set-url origin git@github.com:your-username/my-new-app.git
 ```
 ## Add GitLab remote
 ```bash
