@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "DevOps Notes/Keycloak & postgres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Keycloak & postgres"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3fa48bdceb311401",
@@ -180,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,13 +198,15 @@
   },
   "active": "17452576147c33e7",
   "lastOpenFiles": [
+    "DevOps Notes/Keycloak.md",
+    "DevOps Notes/Keycloak & postgres.md",
+    "DevOps Notes/OliveTin + Keycloak.md",
     "DevOps Notes/Docker – Engine, API, Compose.md",
     "Readme.md",
     "DevOps Notes/Linux bash.md",
     "DevOps Notes/Github.md",
     "DevOps Notes/Docker Swarm.md",
     "DevOps Notes/Keepalived.md",
-    "DevOps Notes/Keycloak.md",
     "DevOps Notes/Multipass.md",
     "DevOps Notes/Nexus_Setup_Guide.md",
     "DevOps Notes/SSH Sessions.md",
